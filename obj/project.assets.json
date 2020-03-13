@@ -1835,7 +1835,7 @@
       "outputPath": "/Users/Ben/Desktop/Dating-App/Back-End/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Ben/.config/NuGet/NuGet.Config"
+        "/Users/Ben/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

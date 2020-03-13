@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DatingApp.API.Controllers
 {
-    [Route("api/[controller")]
+    [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
     {
@@ -20,8 +20,6 @@ namespace DatingApp.API.Controllers
         [HttpPost("register")]
         public async Task<IActionResult> Register(UserForRegisterViewModel userForRegisterViewModel)
         {
-            // validate request
-
             userForRegisterViewModel.Username = userForRegisterViewModel.Username.ToLower();
 
             if (await _repo.UserExists(userForRegisterViewModel.Username))
