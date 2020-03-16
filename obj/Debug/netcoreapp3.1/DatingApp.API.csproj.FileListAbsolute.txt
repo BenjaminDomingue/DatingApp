@@ -96,3 +96,11 @@
 /Users/Ben/Desktop/Dating-App/Back-End/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CopyComplete
 /Users/Ben/Desktop/Dating-App/Back-End/obj/Debug/netcoreapp3.1/staticwebassets/DatingApp.API.StaticWebAssets.Manifest.cache
 /Users/Ben/Desktop/Dating-App/Back-End/obj/Debug/netcoreapp3.1/staticwebassets/DatingApp.API.StaticWebAssets.xml
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/Ben/Desktop/Dating-App/Back-End/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
